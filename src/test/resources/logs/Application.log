@@ -1,0 +1,15 @@
+02/09/2020 13:24:26 devpinoyLogger File Input Stream for config file initilized
+02/09/2020 13:24:26 devpinoyLogger Config file loaded !!!
+02/09/2020 13:24:26 devpinoyLogger File Input Stream for config file initilized
+02/09/2020 13:24:26 devpinoyLogger OR file loaded !!!
+02/09/2020 13:24:30 devpinoyLogger Chrome driver initilized!!!
+02/09/2020 13:24:33 devpinoyLogger URL launched..Navigated to!!!http://www.way2automation.com/angularjs-protractor/banking/#/login
+02/09/2020 13:24:35 devpinoyLogger Window maximised!!!
+02/09/2020 13:24:35 devpinoyLogger Implicit wait set!!!
+02/09/2020 13:24:35 devpinoyLogger Inside loginAsBankManager Test!!!
+02/09/2020 13:24:35 devpinoyLogger Clicked bank manager button
+02/09/2020 13:24:38 devpinoyLogger Element is Present!!!By.cssSelector: div > .btn.btn-lg.tab:nth-child(1)
+02/09/2020 13:24:38 devpinoyLogger Login succesfully
+02/09/2020 13:24:39 devpinoyLogger Customer added succesfully
+02/09/2020 13:24:40 devpinoyLogger Test Execution Completed!!!
+02/09/2020 13:24:40 devpinoyLogger File Input Stream Closed

@@ -1,0 +1,15 @@
+13:24:26,141 DEBUG devpinoyLogger:50 - File Input Stream for config file initilized
+13:24:26,143 DEBUG devpinoyLogger:59 - Config file loaded !!!
+13:24:26,146 DEBUG devpinoyLogger:68 - File Input Stream for config file initilized
+13:24:26,146 DEBUG devpinoyLogger:76 - OR file loaded !!!
+13:24:30,772 DEBUG devpinoyLogger:89 - Chrome driver initilized!!!
+13:24:33,566 DEBUG devpinoyLogger:108 - URL launched..Navigated to!!!http://www.way2automation.com/angularjs-protractor/banking/#/login
+13:24:35,709 DEBUG devpinoyLogger:110 - Window maximised!!!
+13:24:35,714 DEBUG devpinoyLogger:113 - Implicit wait set!!!
+13:24:35,752 DEBUG devpinoyLogger:16 - Inside loginAsBankManager Test!!!
+13:24:35,869 DEBUG devpinoyLogger:18 - Clicked bank manager button
+13:24:38,893 DEBUG devpinoyLogger:122 - Element is Present!!!By.cssSelector: div > .btn.btn-lg.tab:nth-child(1)
+13:24:38,897 DEBUG devpinoyLogger:23 - Login succesfully
+13:24:39,579 DEBUG devpinoyLogger:41 - Customer added succesfully
+13:24:40,210 DEBUG devpinoyLogger:137 - Test Execution Completed!!!
+13:24:40,211 DEBUG devpinoyLogger:146 - File Input Stream Closed
